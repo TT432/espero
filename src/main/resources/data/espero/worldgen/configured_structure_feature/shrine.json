@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:village",
+  "biomes": "#espero:has_shrine",
+  "adapt_noise": true,
+  "spawn_overrides": {},
+  "config": {
+    "start_pool": "espero:shrine",
+    "size": 1
+  }
+}
